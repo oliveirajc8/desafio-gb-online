@@ -1,12 +1,24 @@
-# React + Vite
+# 📌 Desafio GB Online
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um desafio para a vaga de Analista de Desenvolvimentos Junior na empresa GB online
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ [React.js](https://reactjs.org/)
+- ✅ [TailwindCSS](https://tailwindcss.com/)
+- ✅ [Framer Motion](https://www.framer.com/motion/)
+- ✅ [Shadcn/ui](https://ui.shadcn.com)
+- ✅ [Axios](https://axios-http.com/ptbr/)
+- ✅ [Javascript]
+- ✅ [HTML]
+- ✅ [CSS]
 
-## Expanding the ESLint configuration
+# 💡 Funcionalidades
+- ✔️ Buscar itens por nome
+- ✔️ Filtrar por categoria
+- ✔️ Ordenar por popularidade
+- ✔️ Animações com Framer Motion
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Melhorias Futuras
+- ⏳ Mover a requisição fetch para um service separado
+- ⏳ Adicionar ordenação por ordem alfabética
