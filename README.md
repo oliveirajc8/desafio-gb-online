@@ -13,12 +13,12 @@ Um desafio para a vaga de Analista de Desenvolvimentos Junior na empresa GB onli
 - ✅ [HTML]
 - ✅ [CSS]
 
-# 💡 Funcionalidades
+## 💡 Funcionalidades
 - ✔️ Buscar itens por nome
 - ✔️ Filtrar por categoria
 - ✔️ Ordenar por popularidade
 - ✔️ Animações com Framer Motion
 
-# 🛠️ Melhorias Futuras
+## 🛠️ Melhorias Futuras
 - ⏳ Mover a requisição fetch para um service separado
 - ⏳ Adicionar ordenação por ordem alfabética
